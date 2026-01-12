@@ -18,14 +18,10 @@ What this project covers
 -Indexing readiness
 -Programmatic generation of an XML sitemap
 -robots.txt configuration with crawl directives and sitemap reference
-
 This project represents the SEO foundation phase that precedes content expansion, authority building, and ranking optimization.
-
 What this project does not cover (yet)
-
 Backlink building
 Content scaling
 Ongoing ranking optimization
 Analytics or performance tracking
-
 Those steps depend on a solid technical foundation, which is the focus here.
