@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://1melanie.github.io/SEO-Site-Architecture/</loc>
   </url>
   <url>
-    <loc>https://example.com/About/</loc>
+    <loc>https://1melanie.github.io/SEO-Site-Architecture/about.html</loc>
   </url>
   <url>
-    <loc>https://example.com/Contact/</loc>
+    <loc>https://1melanie.github.io/SEO-Site-Architecture/contact.html</loc>
   </url>
   <url>
-    <loc>https://example.com/Menu/</loc>
+    <loc>https://1melanie.github.io/SEO-Site-Architecture/menu.html</loc>
   </url>
+
 </urlset>
